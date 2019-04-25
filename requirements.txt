@@ -1,1 +1,1 @@
-git+git://github.com/sastrawi/sastrawi.git
+Sastrawi==1.0.1
