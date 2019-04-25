@@ -6,7 +6,7 @@
 			array_push($history, $tmp);
 			$tmp = $_POST["quest"];
 			$command = 'source\\main.py';
-			$output = shell_exec('python '.$command. ' 3 "' .$tmp. '"');
+			$output = shell_exec('python '.$command. ' 2 "' .$tmp. '"');
 			$arrstr = explode(';',$output);
 			$tmp = 'Bram : '.$arrstr[0];
 			array_push($history, $tmp);
