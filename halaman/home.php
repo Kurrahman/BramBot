@@ -5,7 +5,7 @@
 			$tmp = $tmp.$_POST["quest"];
 			array_push($history, $tmp);
 			$tmp = $_POST["quest"];
-			$command = 'source\\main.py';
+			$command = 'source/main.py';
 			$output = shell_exec('python '.$command. ' 2 "' .$tmp. '"');
 			$arrstr = explode(';',$output);
 			$tmp = 'Bram : '.$arrstr[0];

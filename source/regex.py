@@ -3,10 +3,10 @@ import re
 
 factory = StemmerFactory()
 stemmer = factory.create_stemmer()
-question = open("source\\ask_data.txt","r")
-answer = open("source\\ans.txt","r")
-stopword = open("source\\stopword.txt","r")
-synonimfile = open("source\\synonim.txt","r")
+question = open("source/ask_data.txt","r")
+answer = open("source/ans.txt","r")
+stopword = open("source/stopword.txt","r")
+synonimfile = open("source/synonim.txt","r")
 sw = []
 pertanyaan = []
 jawaban = []

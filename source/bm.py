@@ -1,8 +1,8 @@
-question = open("source\\ask_data.txt","r")
-answer = open("source\\ans.txt","r")
-stopword = open("source\\stopword.txt","r")
-synonimfile = open("source\\synonim.txt","r")
-realquestion = open("source\\ask.txt","r")
+question = open("source/ask_data.txt","r")
+answer = open("source/ans.txt","r")
+stopword = open("source/stopword.txt","r")
+synonimfile = open("source/synonim.txt","r")
+realquestion = open("source/ask.txt","r")
 pertanyaan = []
 jawaban = []
 sw = []

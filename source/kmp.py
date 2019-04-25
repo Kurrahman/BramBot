@@ -13,11 +13,11 @@ def readfile(array, namafile):
         i += 1
         
 def inputdatabase(ask, ans, stop):
-    readfile(ask, "source\\ask_data.txt")
-    readfile(ans, "source\\ans.txt")
-    readfile(stop, "source\\stopword.txt")
-    readfile(daftar, "source\\ask.txt")
-    readfile(synonim, "source\\synonim.txt")
+    readfile(ask, "source/ask_data.txt")
+    readfile(ans, "source/ans.txt")
+    readfile(stop, "source/stopword.txt")
+    readfile(daftar, "source/ask.txt")
+    readfile(synonim, "source/synonim.txt")
     
     
 # Python program for KMP Algorithm 
