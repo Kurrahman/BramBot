@@ -1,0 +1,43 @@
+Python adalah bahasa pemrograman yang interaktif, dan berorientasi objek.
+Guido van Rossum
+Python dapat diterapkan ke banyak masalah yang berbeda
+Ketika Guido mulai menerapkan Python, ia juga membaca skrip yang diterbitkan oleh "Monty Python Flying Circus"
+Ya, karena python memiliki sintaks yang sangat sederhana dan konsisten dengan library yang besar
+Parameter didefinisikan oleh nama yang muncul dalam definisi fungsi, sedangkan argumen adalah nilai yang sebenarnya diteruskan ke fungsi saat memanggilnya
+Sintaksnya adalah [on_true] jika [ekspresi] lain [on_false]
+Biasanya menggunakan nested lambda
+Cukup gunakan int () atau float (). contoh int ('144') == 144 dan float ('144.232') == 144.232
+Python indeks menggunakan angka positif dan angka negatif. Untuk angka positif 0 adalah yang pertama, indeks 1 adalah indeks kedua dan seterusnya. Untuk indeks negatif -1 adalah indeks terakhir dan -2 adalah indeks kedua dari belakang dan seterusnya.
+Gunakan list, karena list pada Python memiliki kompleksitas waktu yang setara dengan array pada C atau Pascal.
+Idenya dipinjam dari Modula-3. Ternyata sangat berguna, karena berbagai alasan.
+'def' berarti definisi dan method pada Python didefinisikan sebagai fungsi di dalam definisi tersebut
+Guido van Rossum percaya bahwa menggunakan indentasi untuk pengelompokan sangat elegan.
+tidak merekomendasikan menggunakan tab, dan Python style lebih merekomendasikan 4 space
+Ada beberapa keunggulan. Salah satunya adalah kinerja dan keuntungan lainnya adalah string pada Python dapat dianggap sebagai "elemen" seperti angka.
+Anda dapat melakukannya dengan cukup mudah dengan if ... elif ... elif ... else.
+Tergantung pada platform apa yang Anda tuju. Setidaknya Tkinter dan Qt diketahui kompatibel dengan Python 3
+Antarmuka berorientasi objek pada Python
+Framework adalah thematic collection yang digunakan untuk membangun aplikasi.
+Komunitas pengguna besar, bahasa multi-paradigma, kinerja yang baik
+Objek, kelas, dan warisan/inheritance.
+Kelas adalah unit pengemasan dasar teknologi OO
+Bagi seorang programmer, objek adalah wilayah penyimpanan dengan semantik terkait. Bagi seorang desainer, objek adalah komponen apa pun yang dapat diidentifikasi dalam domain masalah.
+Objek yang ideal adalah penyedia layanan yang hidup, bertanggung jawab, dan cerdas.
+Dalam C ++, pewarisan memungkinkan pengembang memodelkan jenis hubungan dan dapat membuat kelas lain
+Kekuatan nyata pemrograman berorientasi objek bukan hanya warisan; itu adalah kemampuan untuk memperlakukan objek dari kelas turunan seolah-olah mereka adalah objek dari kelas dasar. Mekanisme yang mendukung ini adalah polimorfisme dan pengikatan dinamis
+Abstraksi adalah tampilan objek yang disederhanakan dalam kosa kata pengguna sendiri
+Dalam OO dan C ++, abstraksi adalah antarmuka paling sederhana ke objek yang menyediakan semua fitur dan layanan yang diharapkan pengguna.
+Enkapsulasi melindungi abstraksi. Enkapsulasi adalah pengawal; abstraksi adalah VIP
+Ini adalah kunci untuk menghilangkan efek ketika perubahan dilakukan
+Mampu melihat gambaran besar dan keterampilan rekayasa perangkat lunak yang solid.
+Seorang programmer C yang baik selalu merupakan programmer OO yang mengerikan.
+Magang pada proyek nyata dengan profesional top.
+Buku yang bagus bisa mengajarkan sintaks dan semantik, dan buku yang bagus bisa membuka mata Anda, tetapi itu tidak cukup baik jika Anda ingin mendalami.
+Dari perspektif pengguna, private and protected inheritance secara semantik mirip dengan composition. Seperti composition yang lain,protected and private inheritance menyebabkan inner objek ada di dalam outer objek
+<iostream> lebih fleksibel daripada <stdio.h> karena <iostream> memisahkan kode yang melakukan I/O dan code yang mengurusi objek
+<iostream> lebih aman daripada <stdio.h> karena tipe keamanannya sudah ditingkatkan dan lebih sedikit redundansi
+Pointer liar adalah pointer yang merujuk ke sampah.
+Tempatkan pointer di dalam objek dan objek akan mengelola pointer.
+Karena menyalin secara bitwise itu bukan algoritma yang baik
+Destructor, copy constructor, dan assignment operator.
+Overloading punya sama nama, beda signature dan tidak harus virtual. Overriding sama nama, sama signature dan butuh virtual

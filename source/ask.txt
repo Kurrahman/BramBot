@@ -1,0 +1,41 @@
+Apa definisi Python?
+Siapa yang menciptakan Python
+Apa kegunaan Python?
+Mengapa dinamakan Python?
+Apakah Python cocok digunakan oleh pemrogram pemula?
+Apa perbedaan antara argumen dan parameter dalam Python?
+Apakah ada yang setara dengan operator "?:" pada C di Python?
+Apakah mungkin untuk menulis one-liners dengan Python
+Bagaimana cara mengubah string menjadi angka di Python?
+Apa indeks negatif dalam python?
+Bagaimana Anda membuat array dengan Python?
+Mengapa perlu secara eksplsit menggunakan 'self' saat calls?
+Apa itu 'def' dalam Python?
+Mengapa Python menggunakan identasi?
+Mengapa string di Python immutable?
+Mengapa tidak ada switch statement di Python?
+Apa toolkit GUI platform-independen yang ada untuk Python?
+Apa itu tkinter?
+Apa definisi framework?
+Apa manfaat menggunakan C++ untuk pemrograman OO?
+Apa konsep dasar dari OO?
+Mengapa kelas itu penting?
+Apa itu objek?
+Apa kualitas yang diinginkan dari suatu objek?
+Apa tujuan dari inheritance/warisan?
+Apa keuntungan dari polimorfisme dan dinamic binding?
+Apa definisi abstraction?
+Apa kegunan abstraction?
+Apa perbedaan antara enkapsulasi dan abstraksi?
+Mengapa harus memisahkan interface dan implementasi?
+keterampilan apa saja yang membantu untuk mempelajari OO?
+Apakah programmer yang jago bahasa C dapat belajar OO dengan mudah?
+Apa kunci belajar OO?
+Apa itu privated dan protected inheritance?
+Lebih fleksibel <iostream> atau <stdio.h>?
+Lebih aman <iostream> atau <stdio.h>?
+Apa definisi wild pointer?
+Bagaimana cara menghindarkan memory leak?
+Mengapa menggunakan memcpy() menyebabkan crash program?
+Apa definisi Big Three?
+Apa perbedaan antara overloaded dan overriden fungsi?

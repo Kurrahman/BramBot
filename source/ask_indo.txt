@@ -1,0 +1,37 @@
+Apa itu python?
+Siapa yang menciptakan python
+Apa gunanya Python?
+Mengapa disebut Python?
+Apakah Python cocok digunakan oleh pemrogram pemula?
+Apa perbedaan antara argumen dan parameter dalam Python?
+Apakah ada yang setara dengan operator "?:" pada C di Python?
+Apakah mungkin untuk menulis one-liners dengan Python
+Bagaimana cara mengubah string menjadi angka di Python?
+Apakah ada yang setara dengan scanf () atau sscanf () di Python?
+Apa indeks negatif dalam python?
+Bagaimana Anda membuat array dengan Python?
+Apa itu 'def' dalam Python?
+Mengapa Python menggunakan identasi?
+Mengapa string di Python immutable?
+Mengapa tidak ada switch or case statement di Python?
+Apa toolkit GUI platform-independen yang ada untuk Python?
+Apa itu tkinter?
+Apa itu main() di C++?
+Apa itu fungsi dalam C++?
+Apa itu parameter default di C++?
+Apa itu objek lokal di C++?
+Apa dasar membangun objek menggunakan parameter eksplisit di C++?
+Apa dasar objek yang dialokasikan secara dinamis (new) di C++?
+Apa kesalahan paling umum pada proyek C ++ dan OO?
+Apa itu framework?
+Apa manfaat menggunakan C++ untuk pemrograman OO?
+Apa konsep dasar dari OO?
+Mengapa kelas itu penting?
+Apa itu objek?
+Apa kualitas yang diinginkan dari suatu objek?
+Apa tujuan dari inheritance/warisan?
+Apa keuntungan dari polimorfisme dan dinamic binding?
+Apa itu abstraction?
+Mengapa abstraction itu penting?
+Apa perbedaan antara enkapsulasi dan abstraksi?
+Mengapa harus memisahkan interface dan implementasi?

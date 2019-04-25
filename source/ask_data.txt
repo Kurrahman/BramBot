@@ -1,0 +1,43 @@
+definisi python
+menciptakan python
+kegunaan python
+dinamakan python
+python cocok pemula
+perbedaan argumen parameter python
+setara operator "?:" c python
+menulis one-liners python
+mengubah string angka python
+indeks negatif python
+menciptakan array python
+'self' menggunakan eksplisit calls
+'def' python
+python identasi
+insert tab python
+string python immutable
+switch statement python
+toolkit gui python
+tkinter
+framework
+manfaat c++ pemrograman oo
+konsep dasar oo
+kelas
+objek
+kualitas objek
+tujuan inheritance warisan
+keuntungan polimorfisme dinamic binding
+definisi abstraction
+kegunaan abstraction
+perbedaan enkapsulasi abstraksi
+memisahkan interface implementasi
+keterampilan membantu mempelajari oo 
+programmer c jago belajar oo mudah
+kunci belajar oo
+belajar oo buku
+private protected inheritance
+fleksibel <iostream> <stdio.h>
+aman <iostream> atau <stdio.h>
+definisi wild pointer
+menghindari memory leaks
+menyalin menggunakan memcpy() menyebabkan crash program
+definisi Big Three
+perbedaan overloaded overridden

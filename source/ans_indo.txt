@@ -1,0 +1,30 @@
+Python adalah bahasa pemrograman yang interaktif, dan berorientasi objek.
+Guido van Rossum
+Python dapat diterapkan ke banyak masalah yang berbeda
+Ketika Guido mulai menerapkan Python, ia juga membaca skrip yang diterbitkan oleh "Monty Python Flying Circus"
+Ya, karena python memiliki sintaks yang sangat sederhana dan konsisten dengan library yang besar
+Parameter didefinisikan oleh nama yang muncul dalam definisi fungsi, sedangkan argumen adalah nilai yang sebenarnya diteruskan ke fungsi saat memanggilnya
+Iya, sintaksnya adalah [on_true] jika [ekspresi] lain [on_false]
+Iya, biasanya menggunakan nested lambda
+Cukup gunakan int () atau float (). contoh int ('144') == 144 dan float ('144.232') == 144.232
+Tidak demikian
+Python indeks menggunakan angka positif dan angka negatif. Untuk angka positif 0 adalah yang pertama, indeks 1 adalah indeks kedua dan seterusnya. Untuk indeks negatif -1 adalah indeks terakhir dan -2 adalah indeks kedua dari belakang dan seterusnya.
+Gunakan list, karena list pada Python memiliki kompleksitas waktu yang setara dengan array pada C atau Pascal.
+'def' berarti definisi dan method pada Python didefinisikan sebagai fungsi di dalam definisi tersebut
+Guido van Rossum percaya bahwa menggunakan indentasi untuk pengelompokan sangat elegan.
+Ada beberapa keunggulan. Salh satunya adalah kinerja dan keuntungan lainnya adalah string pada Python dapat dianggap sebagai "elemen" seperti angka.
+Anda dapat melakukannya dengan cukup mudah dengan if ... elif ... elif ... else.
+Tergantung pada platform apa yang Anda tuju. Setidaknya Tkinter dan Qt diketahui kompatibel dengan Python 3
+Antarmuka berorientasi objek pada Python
+Framework adalah thematic collection yang digunakan untuk membangun aplikasi.
+Komunitas pengguna besar, bahasa multi-paradigma, kinerja yang baik
+Objek, kelas, dan warisan/inheritance.
+Kelas adalah unit pengemasan dasar teknologi OO
+Bagi seorang programmer, objek adalah wilayah penyimpanan dengan semantik terkait. Bagi seorang desainer, objek adalah komponen apa pun yang dapat diidentifikasi dalam domain masalah.
+Objek yang ideal adalah penyedia layanan yang hidup, bertanggung jawab, dan cerdas.
+Dalam C ++, pewarisan memungkinkan pengembang memodelkan jenis hubungan dan dapat membuat kelas lain
+Kekuatan nyata pemrograman berorientasi objek bukan hanya warisan; itu adalah kemampuan untuk memperlakukan objek dari kelas turunan seolah-olah mereka adalah objek dari kelas dasar. Mekanisme yang mendukung ini adalah polimorfisme dan pengikatan dinamis
+Abstraksi adalah tampilan objek yang disederhanakan dalam kosa kata pengguna sendiri
+Dalam OO dan C ++, abstraksi adalah antarmuka paling sederhana ke objek yang menyediakan semua fitur dan layanan yang diharapkan pengguna.
+Enkapsulasi melindungi abstraksi. Enkapsulasi adalah pengawal; abstraksi adalah VIP
+Ini adalah kunci untuk menghilangkan efek ketika perubahan dilakukan
